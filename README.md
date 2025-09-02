@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Szilagyi
 =====================================================================================================================================
 
-CEO of Tech Stack Apps
+CEO @ Life Value
 ----------------------
 
 Developing innovative healthcare solutions across mobile, web, and IoT platforms. We build high-impact applications designed to improve patient outcomes, streamline clinical workflows, and ensure compliance. Let's collaborate on achieving your organization's critical healthcare goals.
 
 * 🌍  I'm based in Europe
-* 🖥️  See my portfolio at [Tech Stack Apps](http://techstackapps.com/portfolio/)
-* ✉️  You can contact me at [hello@techstackapps.com](mailto:hello@techstackapps.com)
-* 🚀  I'm currently working on [Tech Stack Apps](http://https://techstackapps.com/)
-* 🧠  I'm learning Gin (Go framework)
-* 🤝  I'm open to collaborating on Healthcare projects through Tech Stack Apps
+* 🖥️  See my portfolio at [Life Value](https://lifevalue.com/case-studies](https://lifevalue.com/case-studies)/)
+* ✉️  You can contact me at [hello@lifevalue.com](mailto:hello@lifevalue.com)
+* 🚀  I'm currently working on [Life Value](https://lifevalue.com/)
+* 🧠  I'm learning how to communicate better
+* 🤝  I'm open to collaborating on Healthcare projects through Life Value
 * ⚡  I'm secretly building something, don't ask 😎
 
 <a href="https://www.github.com/TechStackApps" target="_blank" rel="noreferrer"><img
@@ -33,4 +33,5 @@ src="https://img.shields.io/twitter/follow/techstackapps?logo=twitter&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/TechStackApps/revolut-flutter-sdk" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TechStackApps&repo=revolut-flutter-sdk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/TechStackApps/revolut-flutter-sdk" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TechStackApps&repo=revolut-flutter-sdk&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/TechStackApps/fasten-onprem" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TechStackApps&repo=fasten-onprem&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
