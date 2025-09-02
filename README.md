@@ -7,7 +7,7 @@ CEO @ Life Value
 Developing innovative healthcare solutions across mobile, web, and IoT platforms. We build high-impact applications designed to improve patient outcomes, streamline clinical workflows, and ensure compliance. Let's collaborate on achieving your organization's critical healthcare goals.
 
 * 🌍  I'm based in Europe
-* 🖥️  See my portfolio at [Life Value](https://lifevalue.com/case-studies](https://lifevalue.com/case-studies)/)
+* 🖥️  See my portfolio at [Life Value](https://lifevalue.com/case-studies/)
 * ✉️  You can contact me at [hello@lifevalue.com](mailto:hello@lifevalue.com)
 * 🚀  I'm currently working on [Life Value](https://lifevalue.com/)
 * 🧠  I'm learning how to communicate better
